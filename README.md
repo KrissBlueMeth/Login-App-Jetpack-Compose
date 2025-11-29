@@ -12,6 +12,16 @@ La aplicación tiene dos pantallas principales:
 
 Se utilizó **Navigation Compose** para gestionar el flujo entre las dos pantallas (`login` y `bienvenido`) y para el paso de datos.
 
+## Capturas de Pantalla
+
+Aquí puedes ver la interfaz de la aplicación desarrollada:
+
+### Pantalla de Login
+![Captura de la pantalla de inicio de sesión (Login)](captura_pantalla1.png)
+
+### Pantalla de Bienvenida
+![Captura de la pantalla de bienvenida con los datos del usuario](captura_pantalla2.png)
+
 ## Tecnologías Utilizadas
 
 * **Android Studio:** Entorno de desarrollo integrado (IDE).
